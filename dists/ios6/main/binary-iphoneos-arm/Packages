@@ -1,0 +1,10 @@
+Package: com.yourcompany.autocorrectdisabler
+Name: AutoCorrectDisabler
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: You
+Description: disables autocorrect systemwide
+Filename: ./com.yourcompany.autocorrectdisabler_0.0.1-2+debug_iphoneos-arm.deb
+Size: 1234
+Section: Tweaks
+Priority: optional
